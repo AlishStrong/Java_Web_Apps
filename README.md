@@ -20,4 +20,4 @@ CONSTRAINT pk_student PRIMARY KEY(id)
 
 3) For MariaDB connectivity with your Java project you need to include JDBC driver
 
-
+4) There are .java and .jsp files. Java files contain the logical back-bone and linkage to the database data, while .jsp files contain the front-end constitution of the project and interact with servlets and java classes.
