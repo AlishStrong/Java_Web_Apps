@@ -1,4 +1,4 @@
-//Servlet that responds to StudentSearch.jsp servlet with the student object, the ID of whom was sent by the servlet request
+//Servlet that responds to StudentSearch.jsp page with the student object, the ID of whom was sent by the servlet request
 
 import java.io.IOException;
 
