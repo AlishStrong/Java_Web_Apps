@@ -1,4 +1,4 @@
-//Servlet that receives a request from .jsp page and send the right response
+//Servlet that receives a request from StudentList.jsp page and sensd the right response
 
 import java.io.IOException;
 import java.util.Collections;
