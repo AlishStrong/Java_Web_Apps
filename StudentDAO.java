@@ -1,7 +1,5 @@
 //DAO class that contains all methods needed for the project
 
-package ExerciseSet1;
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
